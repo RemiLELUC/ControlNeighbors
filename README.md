@@ -10,7 +10,7 @@ Dependencies in Python 3
 Folders
 - 1_Synthetic/:
 
-contains the source code and results of the numerical experiments related to integration problems on the unite cube $[0,1]^d$, on $\mathbb{R}^d$, on the orthogonal group $O_d(\mathbb{R})$ and on the sphere $\mathbb{S}^{d-1}$.
+contains the source code and results of the numerical experiments related to integration problems on the unit cube $[0,1]^d$, on $\mathbb{R}^d$, on the orthogonal group $O_d(\mathbb{R})$ and on the sphere $\mathbb{S}^{d-1}$.
 
 - 2_OptionPricing/:
 
