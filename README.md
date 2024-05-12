@@ -6,13 +6,13 @@ This implementation is made by [Rémi Leluc](https://remileluc.github.io/).
 
 ## Citation
 
-> @article{leluc2023speeding,
+```bibtex
+@article{leluc2023speeding,
   title={Speeding up Monte Carlo Integration: Control Neighbors for Optimal Convergence},
   author={Leluc, R{\'e}mi and Portier, Fran{\c{c}}ois and Segers, Johan and Zhuman, Aigerim},
   journal={arXiv preprint arXiv:2305.06151},
-  year={2023}
-}
->
+  year={2023}}
+```
 
 ## Abstract
 
