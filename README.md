@@ -1,6 +1,8 @@
 # Speeding up Monte Carlo Integration: Control Neighbors for Optimal Convergence
 
-This is the code for the article "Speeding up Monte Carlo Integration: Control Neighbors for Optimal Convergence", by Rémi LELUC, François PORTIER, Johan SEGERS and Aigerim ZHUMAN. [arXiv](https://arxiv.org/pdf/2305.06151.pdf)
+This is the code for the article "Speeding up Monte Carlo Integration: Control Neighbors for Optimal Convergence", by Rémi LELUC, François PORTIER, Johan SEGERS and Aigerim ZHUMAN. [arXiv](https://arxiv.org/pdf/2305.06151.pdf). To appear in [Bernoulli (2024)](https://www.bernoullisociety.org/publications/bernoulli-journal/bernoulli-journal-papers)
+
+This implementation is made by [Rémi Leluc](https://remileluc.github.io/)
 
 ## Description
 
