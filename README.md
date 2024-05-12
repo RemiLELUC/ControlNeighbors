@@ -18,6 +18,9 @@ This implementation is made by [Rémi Leluc](https://remileluc.github.io/).
 
 A novel linear integration rule called *control neighbors* is proposed in which nearest neighbor estimates act as control variates to speed up the convergence rate of the Monte Carlo procedure on metric spaces. The main result is the $\mathcal{O}(n^{-1/2} n^{-s/d})$ convergence rate -- where $n$ stands for the number of evaluations of the integrand and $d$ for the dimension of the domain -- of this estimate for Hölder functions with regularity $s \in (0,1]$, a rate which, in some sense, is optimal. Several numerical experiments validate the complexity bound and highlight the good performance of the proposed estimator.
 
+![sphere](https://github.com/RemiLELUC/ControlNeighbors/graphs/voronoi_sphere.png)
+
+
 ## Description
 
 Dependencies in Python 3
